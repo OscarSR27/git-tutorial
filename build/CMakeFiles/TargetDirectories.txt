@@ -1,0 +1,3 @@
+/home/rtos-sim/GitTutorial/build/CMakeFiles/edit_cache.dir
+/home/rtos-sim/GitTutorial/build/CMakeFiles/rebuild_cache.dir
+/home/rtos-sim/GitTutorial/build/CMakeFiles/foo.dir
